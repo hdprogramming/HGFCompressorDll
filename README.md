@@ -1,7 +1,7 @@
 # HGFCompressorDll
 .HGF Encoder/Decoder Dynamic Library File
 C# vs. projelerde kullanım için HGFDönüştürücü artık .dll şeklinde;
-https://dosya.co/ur8pmfxgh428/HGFCompressor.dll.html
+
 CompressPicture(System.Drawing.Bitmap, [string], [int], [HGFCompressor.HGFComp.EncoderMode], [byte], [bool])
 metoduyla bitmap resminizi .hgf dönüştürebilirsiniz.
 Örnek Kullanımı
@@ -30,7 +30,7 @@ https://www.facebook.com/RadioactiveZ
 
 Eng
 C # vs.. For use in projects, the HGFManager is now in the form of .dll;
-https://dosya.co/ur8pmfxgh428/hgfcompressor.dll.html
+
 CompressPicture (System.Drawing.Bitmap, [string], [int], [HGFCompressor.HGFComp.EncoderMode], [byte], [bool])
 You can convert your bitmap image to .hgf.
 Sample Usage
